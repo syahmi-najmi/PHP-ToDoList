@@ -16,4 +16,4 @@ Steps:
 3. Create pages for adding, viewing, updating, and deleting tasks.
 4. Implement CRUD (Create, Read, Update, Delete) operations using PHP and SQL queries.
 
-refer (https://codewithawa.com/posts/to-do-list-application-using-php-and-mysql-database)
+refer (https://codewithawa.com/posts/to-do-list-application-using-php-and-mysql-database) ....
